@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </picture>
 
 - 👋 Hi, I’m Zihao Sheng.
-- 👀 Please visit my homepage: https://zihaosheng.github.io/
 - 🔭 I’m currently working on autonomous driving, foundation models, and RL.
+- 👀 Please visit my homepage for more info: https://zihaosheng.github.io/
